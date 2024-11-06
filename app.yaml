@@ -10,7 +10,7 @@ spec:
   sources:
   - repoURL: https://github.com/Shaked/appset-test.git
     path: 'chart'
-    targetRevision: HEAD
+    targetRevision: 1a01847
     helm:
       ignoreMissingValueFiles: true
       valueFiles:
