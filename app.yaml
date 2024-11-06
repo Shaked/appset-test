@@ -18,7 +18,6 @@ spec:
   - repoURL: https://github.com/Shaked/appset-test.git
     targetRevision: HEAD
     ref: values
-  sources: []
   project: default
   syncPolicy:
     automated:
